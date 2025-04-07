@@ -1,0 +1,14 @@
+{
+  "name": "clinica-vida-saudavel",
+  "version": "1.0.0",
+  "description": "Landing page estática da Clínica Vida Saudável",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --open=./index.html"
+  },
+  "author": "Johnathan",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
